@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a Computer Science & Systems major, Business minor, and an Assembler Installer.
+I am a Computer Science & Systems major, Business minor, and an Aerospace Assembler Installer.
 
 Contact Me:
 
