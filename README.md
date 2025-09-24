@@ -1,17 +1,8 @@
 ## Hi there 👋
 
-I am a Computer Science & Systems major, Business minor, and IT Support Specialist!
-
-What I do:
-- IT Support
-- Game Design
-- Content Creation
-
-Learning:
-- Java
-- Expanding technical and soft skills
-- Exploring tools
+I am a Computer Science & Systems major, Business minor, and an Assembler Installer.
 
 Contact Me:
 Email: iphon@uw.edu
+Phone: 253-448-1359
 LinkedIn: https://www.linkedin.com/in/isaac-phon-profile/
